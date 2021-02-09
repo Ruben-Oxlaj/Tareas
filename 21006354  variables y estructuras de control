@@ -1,0 +1,17 @@
+var mes = prompt("mes")
+alert(10)
+
+if (mes < 12)
+  alert("es invierno")
+
+ if (mes < 3,5)
+  alert("primavera")
+  
+  if (mes < 6,8)
+  alert("verano")
+  
+    if (mes < 9,11)
+  alert("otoño")
+    
+   var nombre 
+   alert("21006354 ruben elías oxlaj lux")
